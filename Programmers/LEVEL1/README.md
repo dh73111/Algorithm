@@ -7,7 +7,7 @@
 | 00 ||[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 01 ||[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](완주하지_못한_선수.java)|
 | 02 ||[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](K번째수.java)|
-| 03 ||[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
+| 03 ||[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](체육복.java)|
 | 04 ||[[카카오 인턴] 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 05 ||[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](크레인_인형뽑기_게임.java)|
 | 06 ||[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||

@@ -6,7 +6,7 @@
 | :--:|:--:|:--:|:--:|:--:|:--:|
 | 00 ||[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 01 ||[[1차] 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
-| 02 ||[가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
+| 02 ||[가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](가장_먼_노드.java)|
 | 03 ||[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](입국심사.java)|
 | 04 ||[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 05 ||[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||

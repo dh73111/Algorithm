@@ -9,7 +9,7 @@
 | 02 ||[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](오픈채팅방.java)|
 | 03 ||[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](문자열_압축.java)|
 | 04 ||[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](더_맵게.java)|
-| 05 ||[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
+| 05 ||[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](짝지어_제거하기.java)|
 | 06 ||[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](기능개발.java)|
 | 07 ||[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 08 ||[[카카오 인턴] 수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||

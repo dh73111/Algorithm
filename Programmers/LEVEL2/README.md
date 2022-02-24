@@ -16,7 +16,7 @@
 | 09 ||[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 10 ||[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 11 ||[[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
-| 12 ||[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
+| 12 ||[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](행렬_테두리_회전하기.java)|
 | 13 ||[예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 14 ||[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 15 ||[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||

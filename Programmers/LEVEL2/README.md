@@ -20,7 +20,7 @@
 | 13 ||[예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 14 ||[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 15 ||[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
-| 16 ||[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
+| 16 ||[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](괄호_변환.java)|
 | 17 ||[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 18 ||[게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 19 ||[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||

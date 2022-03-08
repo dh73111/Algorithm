@@ -12,7 +12,7 @@
 | 05 ||[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](짝지어_제거하기.java)|
 | 06 ||[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](기능개발.java)|
 | 07 ||[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
-| 08 ||[[카카오 인턴] 수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
+| 08 ||[[카카오 인턴] 수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](수식_최대화.java)|
 | 09 ||[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](메뉴_리뉴얼.java)|
 | 10 ||[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 11 ||[[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](_1차_뉴스_클러스터링.java)|

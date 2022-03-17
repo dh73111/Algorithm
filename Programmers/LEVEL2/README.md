@@ -14,7 +14,7 @@
 | 07 ||[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 08 ||[[카카오 인턴] 수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](수식_최대화.java)|
 | 09 ||[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](메뉴_리뉴얼.java)|
-| 10 ||[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
+| 10 ||[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](전화번호_목록.java)|
 | 11 ||[[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](_1차_뉴스_클러스터링.java)|
 | 12 ||[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](행렬_테두리_회전하기.java)|
 | 13 ||[예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
